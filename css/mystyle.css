@@ -1,0 +1,23 @@
+body{
+	font-family: 'Poppins', sans-serif;
+	min-height: 100vh;
+	background-repeat: no-repeat;
+	/*background-image:url(fondo.jpg);*/
+	background-color: rgba(171, 235, 198, 0.5);
+	background-size: cover;
+	margin: 0;
+}
+.imagen1{
+	display:block;
+    margin:auto;
+    text-align: center;
+}
+.cuerpo1{
+	font-family: 'Poppins', sans-serif;
+	min-height: 100vh;
+	background-repeat: no-repeat;
+	background-image:url(../img/fondo4.jpg);
+	/*background-color: rgba(39, 48, 102, 0.5);*/
+	background-size: cover;
+	margin: 0;
+}
